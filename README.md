@@ -1,1 +1,1 @@
-# vite-react-ssr
+# vite-react-ts
